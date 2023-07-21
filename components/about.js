@@ -28,7 +28,7 @@ const About = () => {
             enthousiaste à l&apos;idée de contribuer à créer des expériences web
             innovantes et conviviales. N&apos;hésitez pas à me contacter pour que
             nous puissions collaborer et créer quelque chose d&apos;extraordinaire
-            ensemble ! 💻🚀
+            ensemble ! 💻🚀 
           </p>
         </div>
         <div className="about-img">
