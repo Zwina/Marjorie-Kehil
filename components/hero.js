@@ -6,9 +6,9 @@ import { faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 const Hero = () => {
   // const [showCard, setShowCard] = useState(false);
   return (
-    <div className="hero-container mt-32 md:mt-0" id="section1">
+    <div className="hero-container mt-16 md:mt-0" id="section1">
       {/* <Card flipped={showCard} set={(state) => setShowCard(state)} /> */}
-      <Image src='/image/femme.png' className="profile-img" width={300} height={300} alt="icon" />
+      <Image src='/image/femme.png' className="profile-img mt-32" width={300} height={300} alt="icon" />
       <div className="hero-text">
         <h1><span className="text-orange-400">Salut,</span> je suis <span className="text-yellow-300">Marjorie Kehil</span> 👋</h1>
         <p>
