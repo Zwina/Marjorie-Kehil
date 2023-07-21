@@ -30,8 +30,8 @@ export default function Diploma() {
               target="_blank"
               rel="noopener noreferrer"
             >Greta21 (Dijon) </a>
-                <br/>   - Conception et mise en place d`&apos;`'applications web, mobiles et Desktop
-                <br/>   - Développement back-end et front-end d`&apos;`'applications
+                <br/>   - Conception et mise en place d`&apos;`applications web, mobiles et Desktop
+                <br/>   - Développement back-end et front-end d`&apos;`applications
                 <br/>   - Modélisation conceptuelle et mise en place de base de données
                 <br/>   - Développement de composants dans le langage de base de données 
                 <br/>   - Gestion de projet, versionning
