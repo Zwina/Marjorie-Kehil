@@ -13,7 +13,7 @@ export default function Diploma() {
           <Timeline.Point icon={HiCalendar} />
           <Timeline.Content className="ml-6">
             <Timeline.Title className="text-white">
-              Concepteur Développeur d`&apos;`'Applications
+              Concepteur Développeur d`&apos;`Applications
             </Timeline.Title>
             <Timeline.Time>Juillet 2023</Timeline.Time>
             <Timeline.Body>
