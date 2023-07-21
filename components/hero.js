@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1><span className="text-orange-400">Salut,</span> je suis <span className="text-yellow-300">Marjorie Kehil</span> 👋</h1>
         <p>
-         Je suis une développeuse junior back-end basée à Dijon. Je me spécialise dans la création d`&apos;`applications robustes en mettant l`&apos;`accent sur Node.js. Je suis passionnée par la création de solutions efficaces et évolutives pour relever divers défis dans le domaine du développement web. De la logique côté serveur à l`&apos;`optimisation des interactions avec la base de données, j`&apos;`apprécie chaque aspect du processus de développement back-end.
+         Je suis une développeuse junior back-end basée à Dijon. Je me spécialise dans la création d&apos;applications robustes en mettant l&apos;accent sur Node.js. Je suis passionnée par la création de solutions efficaces et évolutives pour relever divers défis dans le domaine du développement web. De la logique côté serveur à l&apos;optimisation des interactions avec la base de données, j&apos;apprécie chaque aspect du processus de développement back-end.
         </p>
         <div className="social-icons">
         <a

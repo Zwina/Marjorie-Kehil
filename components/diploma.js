@@ -13,7 +13,7 @@ export default function Diploma() {
           <Timeline.Point icon={HiCalendar} />
           <Timeline.Content className="ml-6">
             <Timeline.Title className="text-white">
-              Concepteur Développeur d`&apos;`Applications
+              Concepteur Développeur d&apos;Applications
             </Timeline.Title>
             <Timeline.Time>Juillet 2023</Timeline.Time>
             <Timeline.Body>
@@ -21,7 +21,7 @@ export default function Diploma() {
                 <span className="w-10 h-10 rounded-full">
                   <img
                     className="rounded-full ring-8 ring-gray-900 bg-blue-900"
-                    src="http://localhost:3000/image/marianne.jpg"
+                    src="/image/marianne.jpg"
                     alt="oc"
                   />
                 </span>
@@ -30,8 +30,8 @@ export default function Diploma() {
               target="_blank"
               rel="noopener noreferrer"
             >Greta21 (Dijon) </a>
-                <br/>   - Conception et mise en place d`&apos;`applications web, mobiles et Desktop
-                <br/>   - Développement back-end et front-end d`&apos;`applications
+                <br/>   - Conception et mise en place d&apos;applications web, mobiles et Desktop
+                <br/>   - Développement back-end et front-end d&apos;applications
                 <br/>   - Modélisation conceptuelle et mise en place de base de données
                 <br/>   - Développement de composants dans le langage de base de données 
                 <br/>   - Gestion de projet, versionning
@@ -53,7 +53,7 @@ export default function Diploma() {
                 <span className="w-10 h-10 rounded-full">
                   <img
                     className="rounded-full ring-8 ring-gray-900 bg-blue-900"
-                    src="http://localhost:3000/image/openclassrooms.jpg"
+                    src="/image/openclassrooms.jpg"
                     alt="oc"
                   />
                 </span>
@@ -65,7 +65,7 @@ export default function Diploma() {
                 <span className="w-10 h-10 rounded-full">
                   <img
                     className="rounded-full ring-8 ring-gray-900 bg-blue-900"
-                    src="http://localhost:3000/image/freecodecamp.png"
+                    src="/image/freecodecamp.png"
                     alt="oc"
                   />
                 </span>
@@ -90,7 +90,7 @@ export default function Diploma() {
                 <span className="w-10 h-10 rounded-full">
                   <img
                     className="rounded-full ring-8 ring-gray-900 bg-blue-900"
-                    src="http://localhost:3000/image/openclassrooms.jpg"
+                    src="/image/openclassrooms.jpg"
                     alt="oc"
                   />
                 </span>
@@ -118,7 +118,7 @@ export default function Diploma() {
                 <span className="w-10 h-10 rounded-full">
                   <img
                     className="rounded-full ring-8 ring-gray-900 bg-blue-900"
-                    src="http://localhost:3000/image/openclassrooms.jpg"
+                    src="/image/openclassrooms.jpg"
                     alt="oc"
                   />
                 </span>

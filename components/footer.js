@@ -8,7 +8,7 @@ const Footer = () => {
         <hr/>
         <div className="footer-container">
           <p>
-            © {new Date().getFullYear()} Marjorie`&apos;`s Portfolio | Tous droits réservés
+            © {new Date().getFullYear()} Marjorie&apos;s Portfolio | Tous droits réservés
           </p>
           <p>
             <a
