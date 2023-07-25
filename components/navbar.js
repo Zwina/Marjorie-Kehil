@@ -1,22 +1,3 @@
-// components/Navbar.jsx
-
-// import Link from "next/link";
-
-// const Navbar = () => {
-//   return (
-//     <div classNameName="nav-container">
-//       <div classNameName="logo">
-//         <Link href="/">
-//           Marjorie Kehil
-//         </Link>
-//       </div>
-//       <a href="#section1" classNameName="cta-btn">Resume</a>
-//     </div>
-//   )
-// }
-
-// export default Navbar;
-
 "use client"
 
 import { Navbar } from "flowbite-react";
