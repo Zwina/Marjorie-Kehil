@@ -28,4 +28,15 @@ export const projectData = [
       gitHubLink: '/',
       appLink: 'https://elevagejackrussellcuenot.fr',
     },
+    {
+      id: 4,
+      title: 'BookFlix',
+      description:
+        "Une appli web de bibliothèque de films, livres et musiques. Construit avec React, API REST Node.js et Bootstrap.",
+      image : "/image/bookflix.jpg",
+      gitHubLink: '/',
+      appLink: 'https://bookflix-zwina.vercel.app/',
+    },
+
+    
   ];
