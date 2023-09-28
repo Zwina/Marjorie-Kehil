@@ -12,7 +12,7 @@ export const projectData = [
     },
     {
       id: 2,
-      title: 'Cuisine en Famille',
+      title: "Pixie's Cooking",
       description:
         'Une application web destinée à un usage familial pour partager et découvrir les recettes de chacun. Contruit avec React, API REST Node.js, mySQL et Bootstrap.',
       image : "/image/cuisine.jpg",
